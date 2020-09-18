@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hollow Rhombus", "Hollow Rhombus\Hollow Rhombus.vcxproj", "{409C68EF-74BB-43FE-A66E-FA3D00D31214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{409C68EF-74BB-43FE-A66E-FA3D00D31214}.Debug|x64.ActiveCfg = Debug|x64
+		{409C68EF-74BB-43FE-A66E-FA3D00D31214}.Debug|x64.Build.0 = Debug|x64
+		{409C68EF-74BB-43FE-A66E-FA3D00D31214}.Debug|x86.ActiveCfg = Debug|Win32
+		{409C68EF-74BB-43FE-A66E-FA3D00D31214}.Debug|x86.Build.0 = Debug|Win32
+		{409C68EF-74BB-43FE-A66E-FA3D00D31214}.Release|x64.ActiveCfg = Release|x64
+		{409C68EF-74BB-43FE-A66E-FA3D00D31214}.Release|x64.Build.0 = Release|x64
+		{409C68EF-74BB-43FE-A66E-FA3D00D31214}.Release|x86.ActiveCfg = Release|Win32
+		{409C68EF-74BB-43FE-A66E-FA3D00D31214}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9087BE11-73C2-41A0-86B6-0FAD42A288BC}
+	EndGlobalSection
+EndGlobal
